@@ -69,8 +69,8 @@ iframe {
   padding: 1rem;
 }
 
-.profile-img{
-  max-height:33vh;
+.profile-img {
+  max-height: 33vh;
   width: auto;
-  border-radis: 50%;
+  border-radius: 50%;
 }
