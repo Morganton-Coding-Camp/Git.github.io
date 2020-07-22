@@ -72,7 +72,7 @@ iframe {
 .banner {
   background: url('../images/multicolored-umbrella-1146851.jpg');
   background-size:cover;
-  min-hight:100vh;
+  min-hight:200vh;
   padding: 3rem;
   text-align: center;
 }
