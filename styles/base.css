@@ -69,6 +69,14 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
+.banner {
+  background;url('../img/multicolored-umbrella-1146851.jpg
+');
+  background-size:cover;
+  min-hight:55vh;
+  padding 3rem
+  text/aline: center
+}
 
 .profile-img {
   max-height: 55vh;
