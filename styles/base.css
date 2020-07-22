@@ -70,12 +70,11 @@ iframe {
   padding: 1rem;
 }
 .banner {
-  background;url('../img/multicolored-umbrella-1146851.jpg
-');
+  background: url('../images/multicolored-umbrella-1146851.jpg');
   background-size:cover;
   min-hight:55vh;
-  padding 3rem
-  text/aline: center
+  padding: 3rem;
+  text-align: center;
 }
 
 .profile-img {
