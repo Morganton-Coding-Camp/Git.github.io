@@ -7,6 +7,8 @@ body {
   background: #dcfef6;
   color: #fcf5ff;
   font-family: 'Noto Sans JP', sans-serif;
+  color: green;
+    
 }
 
 h1,
@@ -91,4 +93,14 @@ iframe {
   max-height: 55vh;
   width: auto;
   border-radius: 50%;
+}
+
+.Favorite-ice-cream {
+  "Brown"
+}
+.Favorite-Game{
+  "Purple"
+}
+.Favorite-thing{
+  "Green"
 }
